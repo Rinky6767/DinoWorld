@@ -1,5 +1,7 @@
 # Project Title
  Dino World
+ ![image](https://github.com/user-attachments/assets/90a77e88-2715-4724-80f2-6cd8e0834b8e)
+
 
 # Description
  Project entitled Dino World, is Simple dino game developed using  HTML, CSS and JavaScript up to the date.
