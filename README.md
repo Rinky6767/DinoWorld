@@ -20,5 +20,5 @@
  # Installing
  * You can clone the repository, using the command: git clone url;
  
- * You can View the Website [Here](https://stellar-youtiao-4ad921.netlify.app)
+ * You can View the **Game** [Here](https://stellar-youtiao-4ad921.netlify.app)
 
